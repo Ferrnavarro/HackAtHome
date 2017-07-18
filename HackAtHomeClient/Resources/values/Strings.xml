@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">Hack@Home</string>
+  <string name="TextoCorreo">Correo: </string>
+  <string name="TextoContra">Contraseña: </string>
+  <string name="TextValidateButton">Validar</string>
+
+  <string name="EvidenceText">Evidencias</string>
+  <string name="DescriptionText">Descripción</string>
+  
+</resources>
